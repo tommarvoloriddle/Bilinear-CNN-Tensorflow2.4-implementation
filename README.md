@@ -15,6 +15,6 @@
 
 ##### Divided into 2 files.
 
->Bilinear from output of same backbone network.
+>Bilinear from output of 2 parallel VGG16 ouputs taken from layer 17 from each.
 
 >Bilinear CNN from 2 custom CNN's of same sized output.
