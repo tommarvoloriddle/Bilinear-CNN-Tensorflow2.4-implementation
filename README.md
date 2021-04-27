@@ -1,8 +1,8 @@
 # Bilinear-CNN-Tensorflow2.4-implementation
 
-##This is implementation of Bilinear Convolutional neural networks using Tensorflow version 2+ and Keras.
+## This is implementation of Bilinear Convolutional neural networks using Tensorflow version 2+ and Keras.
 
-####Divided into 2 files.
+#### Divided into 2 files.
 
 >Bilinear from output of same backbone network.
 
